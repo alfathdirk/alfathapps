@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+timer.js
+README.md
+hooks
+config.xml
+platforms
